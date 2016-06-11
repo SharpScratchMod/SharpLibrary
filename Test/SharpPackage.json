@@ -1,4 +1,6 @@
 {
   "name": "Test",
-  "author": "Test"
+  "author": "Test",
+  "tags": ["devtools"],
+  "keywords": ["Test", "Test", "devtools"]
 }
